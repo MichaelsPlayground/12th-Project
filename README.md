@@ -9,6 +9,7 @@ https://github.com/saif-samy/Android_Messaging_App.git
  ```
 
 ## Features
+* Messages are received instantly
 * Create account using the user's email address
 * Sign in using the user's email address
 * Display all recent chats in order
