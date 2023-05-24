@@ -33,7 +33,7 @@ https://github.com/saif-samy/Android_Messaging_App.git
 
 **Recent Chats**
 
-![Recent Chats](https://github.com/saif-samy/Android_Messaging_App/blob/main/Screenshots/Recent-Messages.pngg)
+![Recent Chats](https://github.com/saif-samy/Android_Messaging_App/blob/main/Screenshots/Recent-Messages.png)
 
 **Chat Layout**
 
