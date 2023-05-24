@@ -16,3 +16,5 @@ https://github.com/saif-samy/Android_Messaging_App.git
 * Display all users to start new chat
 * Show online status of the user
 * Send notification when new message is received
+
+## Scrennshots
