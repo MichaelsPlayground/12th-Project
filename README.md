@@ -22,7 +22,7 @@ https://github.com/saif-samy/Android_Messaging_App.git
 **Create Account**
 
 ![Create New Account](https://github.com/saif-samy/Android_Messaging_App/blob/main/Screenshots/Create-Account.png)
-<img src="https://github.com/saif-samy/Android_Messaging_App/blob/main/Screenshots/Create-Account.png" data-canonical-src="https://github.com/saif-samy/Android_Messaging_App/blob/main/Screenshots/Create-Account.png" width="200" height="400" />
+<img src="https://github.com/saif-samy/Android_Messaging_App/blob/main/Screenshots/Create-Account.png" height="600" />
 
 **Sign In**
 
