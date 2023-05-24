@@ -21,7 +21,7 @@ https://github.com/saif-samy/Android_Messaging_App.git
 
 **Create Account**
 
-![Create New Account](https://github.com/saif-samy/Android_Messaging_App/blob/main/Screenshots/Create-Account.png)
+![Create New Account](https://github.com/saif-samy/Android_Messaging_App/blob/main/Screenshots/Create-Account.png | height=250)
 
 **Sign In**
 
