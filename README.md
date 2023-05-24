@@ -21,21 +21,20 @@ https://github.com/saif-samy/Android_Messaging_App.git
 
 **Create Account**
 
-<img src="https://github.com/saif-samy/Android_Messaging_App/blob/main/Screenshots/Create-Account.png" height="600" />
+<img src="https://github.com/saif-samy/Android_Messaging_App/blob/main/Screenshots/Create-Account.png" height="500" />
 
 **Sign In**
 
-![Sign In](https://github.com/saif-samy/Android_Messaging_App/blob/main/Screenshots/Sign-In.png)
+<img src="https://github.com/saif-samy/Android_Messaging_App/blob/main/Screenshots/Sign-In.png" height="500" />
 
 **List Users**
 
-![List Users](https://github.com/saif-samy/Android_Messaging_App/blob/main/Screenshots/List-Users.png)
+<img src="https://github.com/saif-samy/Android_Messaging_App/blob/main/Screenshots/List-Users.png" height="500" />
 
 **Recent Chats**
 
-![Recent Chats](https://github.com/saif-samy/Android_Messaging_App/blob/main/Screenshots/Recent-Messages.png)
+<img src="https://github.com/saif-samy/Android_Messaging_App/blob/main/Screenshots/Recent-Messages.png" height="500" />
 
 **Chat Layout**
 
-![Chat](https://github.com/saif-samy/Android_Messaging_App/blob/main/Screenshots/Chat.png)
-
+<img src="https://github.com/saif-samy/Android_Messaging_App/blob/main/Screenshots/Chat.png" height="500" />
