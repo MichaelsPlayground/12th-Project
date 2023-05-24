@@ -18,3 +18,24 @@ https://github.com/saif-samy/Android_Messaging_App.git
 * Send notification when new message is received
 
 ## Scrennshots
+
+** Create Account **
+
+![Create New Account](https://github.com/saif-samy/Android_Messaging_App/blob/main/Screenshots/Create-Account.png)
+
+** Sign In **
+
+![Sign In](https://github.com/saif-samy/Android_Messaging_App/blob/main/Screenshots/Sign-In.png)
+
+** List Users **
+
+![List Users](https://github.com/saif-samy/Android_Messaging_App/blob/main/Screenshots/List-Users.png)
+
+** Recent Chats **
+
+![Recent Chats](https://github.com/saif-samy/Android_Messaging_App/blob/main/Screenshots/Recent-Messages.pngg)
+
+** Chat Layout **
+
+![Chat](https://github.com/saif-samy/Android_Messaging_App/blob/main/Screenshots/Chat.png)
+
