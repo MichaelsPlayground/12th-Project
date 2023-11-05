@@ -1,4 +1,9 @@
 # Android_Messaging_App
+
+Source: https://github.com/saif-samy/Android_Messaging_App
+
+Status: app is working but no notifications are sent or received (missing permission handling ?)
+
 Real-time messaging application for android using Java and Firebase as the database 
 
 ## Installation
