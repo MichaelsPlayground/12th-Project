@@ -4,6 +4,19 @@ Source: https://github.com/saif-samy/Android_Messaging_App
 
 Status: app is working but no notifications are sent or received (missing permission handling ?)
 
+## dependencies:
+
+```plaintext
+https://github.com/intuit/sdp : An android lib that provides a new size unit - sdp (scalable dp). This size unit scales with the screen size. It can help Android developers with supporting multiple screens
+https://github.com/intuit/ssp : An android lib that provides a new size unit - ssp (scalable sp). This size unit scales with the screen size based on the sp size unit (for texts). It can help Android developers with supporting multiple screens.
+https://github.com/vinc3m1/RoundedImageView : RoundedImageView was originally made with a primary goal of memory and rendering performance, and specifically only worked well on Bitmaps. It had some very poorly performing hacks built in for non-bitmaps, along with a lot of hard to maintain synchronization of ScaleTypes and sizing between the ImageView and the Drawable itself.
+  Note: [ARCHIVED] RoundedImageView is no longer actively maintained as there are better alternatives available
+  
+  
+```
+
+
+
 Real-time messaging application for android using Java and Firebase as the database 
 
 ## Installation
