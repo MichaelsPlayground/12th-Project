@@ -15,8 +15,6 @@ https://github.com/vinc3m1/RoundedImageView : RoundedImageView was originally ma
   
 ```
 
-
-
 Real-time messaging application for android using Java and Firebase as the database 
 
 ## Installation
